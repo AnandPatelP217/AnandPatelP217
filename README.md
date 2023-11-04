@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Anand Patel</h1>
 <h3 align="center">I'm a passionate learner. Working towards making future in the field of Computer Science and Technology.</h3>
 
-<img align="right" alt="image" width="400" src="![Virtual Reality Created By Anand Patel (1)](https://github.com/AnandPatelP217/AnandPatelP217/assets/111419877/eebbdc38-8847-47d8-a736-4cbda7ad7568)">
+<img align="right" alt="image" width="400" src="https://github.com/AnandPatelP217/AnandPatelP217/assets/111419877/eebbdc38-8847-47d8-a736-4cbda7ad7568)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandpatelp217&label=Profile%20views&color=0e75b6&style=flat" alt="anandpatelp217" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandpatelp217" alt="anandpatelp217" /></a> </p>
