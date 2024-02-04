@@ -1,6 +1,6 @@
 ![logo](https://github.com/AnandPatelP217/AnandPatelP217/assets/111419877/6d454178-7222-49d0-9406-8acf3e644e58)
 <h1 align="center">Hello 👋, I'm Anand Patel</h1>
-<h3 align="center">I'm a passionate learner. Working towards making future in the field of Computer Science and Technology.</h3>
+<h3 align="center">I'm a Good Learner Working towards making future in the field of Computer Science and Technology.</h3>
 
 <img align="right" alt="image" width="400" src="https://github.com/AnandPatelP217/AnandPatelP217/assets/111419877/eebbdc38-8847-47d8-a736-4cbda7ad7568)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandpatelp217&label=Profile%20views&color=0e75b6&style=flat" alt="anandpatelp217" /> </p>
