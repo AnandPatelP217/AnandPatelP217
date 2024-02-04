@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anandpatelp217@gmail.com**
 
-- 📄 Know about my experiences [resume]([resume](https://app.resumod.co/resume/r/65b5f5d043e87461192f3a3f))
+- 📄 Know about my experiences **https://app.resumod.co/resume/r/65b5f5d043e87461192f3a3f**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
