@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandpatelp217" alt="anandpatelp217" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, React, Java script ,Data analysis, firebase**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **anandpatelp217@gmail.com**
 
