@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anandpatelp217@gmail.com**
 
-- 📄 Know about my experiences **https://app.resumod.co/resume/r/65b5f5d043e87461192f3a3f**
+- 📄 Know about my experiences **[ANAND_PATEL  (1).pdf](https://github.com/AnandPatelP217/AnandPatelP217/files/14155467/ANAND_PATEL.1.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
